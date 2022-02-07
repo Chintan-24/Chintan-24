@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://chintan-portfolio.netlify.app/](https://chintan-portfolio.netlify.app/)
+- 👨‍💻 My portfolio link [https://chintan-portfolio.netlify.app/](https://chintan-portfolio.netlify.app/)
 
 - 📫 How to reach me **chintanbhalodiya24@gmail.com**
 
-- ⚡ Projects link **https://projects-cb.netlify.app/**
+- ⚡ Link of all my projects **https://projects-cb.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
