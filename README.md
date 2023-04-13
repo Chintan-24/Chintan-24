@@ -1,4 +1,4 @@
-[![masterhead](https://media-exp1.licdn.com/dms/image/C4D16AQHX2qbG-k1rog/profile-displaybackgroundimage-shrink_350_1400/0/1623432724991?e=1649894400&v=beta&t=a8hneVDQeAFWpmTNXvh_KXJ8wtwB_VMAHM-rZGJBESE)](https://chintan-portfolio.netlify.app/)
+(https://chintan-portfolio.netlify.app/)
 
 <h1 align="center">Hi 🙋‍♂️, I'm Chintan Bhalodiya</h1>
 <h3 align="center">Frontend designer & developer</h3>
