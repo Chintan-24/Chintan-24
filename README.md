@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan-24&label=Profile%20views&color=0e75b6&style=flat" alt="chintan-24" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/uc?export=view&id=1iHDPEgtVbRvOfdAd1IpUZiTu5In98nXI">
+<img align="right" alt="coding" width="400" src="https://drive.google.com/uc?export=view&id=1iHDPEgtVbRvOfdAd1IpUZiTu5In98nXI" style="border-radius: 15px;">
 
 - 🌱 I’m currently learning **React JS & Next JS**
 
